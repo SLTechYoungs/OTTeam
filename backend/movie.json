@@ -1,0 +1,53 @@
+{
+  "movieListResult": {
+    "totCnt": 3,
+    "source": "영화진흥위원회",
+    "movieList": [
+      {
+        "movieCd": "20194403",
+        "movieNm": "킹스맨: 퍼스트 에이전트",
+        "movieNmEn": "The King's Man",
+        "prdtYear": "2020",
+        "openDt": "20211222",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [{ "peopleNm": "매튜 본" }],
+        "companys": []
+      },
+      {
+        "movieCd": "20175222",
+        "movieNm": "킹스맨: 골든 서클",
+        "movieNmEn": "Kingsman: The Golden Circle",
+        "prdtYear": "2017",
+        "openDt": "20170927",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국,영국",
+        "genreAlt": "액션,어드벤처,코미디",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [{ "peopleNm": "매튜 본" }],
+        "companys": []
+      },
+      {
+        "movieCd": "20140110",
+        "movieNm": "킹스맨 : 시크릿 에이전트",
+        "movieNmEn": "Kingsman: The Secret Service",
+        "prdtYear": "2014",
+        "openDt": "20150211",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국,영국",
+        "genreAlt": "액션,스릴러",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [{ "peopleNm": "매튜 본" }],
+        "companys": []
+      }
+    ]
+  }
+}
